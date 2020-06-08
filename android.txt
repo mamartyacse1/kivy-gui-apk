@@ -1,0 +1,3 @@
+title=buttonApp
+author=amartya
+orientation=potrait
